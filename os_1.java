@@ -1,5 +1,4 @@
-/* Mehul Jain 1001229017
-CSE 3320 Programming Assignment 1*/
+
 
 
 import java.util.*;
